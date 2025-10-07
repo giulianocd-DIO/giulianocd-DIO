@@ -1,4 +1,4 @@
-# 💫 Sobre mim:
+# 💫Sobre mim:
 Sou Giuliano Dantas, analista de redes e infra.<br>Estou procurando novas oportunidades de emprego e <br>de novos desafios para crescimento como <br>profissional de tecnologia.
 
 
